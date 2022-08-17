@@ -18,6 +18,5 @@ CREATE OR ALTER FUNCTION dbo.transforma_mes (@data_desejada datetime)
 	 END
   END
 
-  /*
-select dbo.convert_date(dataatualiza) MES,* 
-from MEDICOS*/
+--proj_func_1
+--gabs
